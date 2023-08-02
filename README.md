@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img src="https://www.flaticon.com/free-icon/python_3098090?term=python&page=1&position=4&origin=search&related_id=3098090" height="40" /> 
+  <img src="https://www.flaticon.com/free-icon/python_3098090?term=python&page=1&position=4&origin=search&related_id=3098090&k=1690974967522&sign-up=google" height="40" /> 
   <img width="12" />
 </div>
 
