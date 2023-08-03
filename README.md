@@ -12,7 +12,7 @@
 
 ###
 
-![Static Badge](https://img.shields.io/badge/visitor-badge)
+[![Static Badge](https://img.shields.io/badge/visitor-badge)](https://api.visitor.plantree.me/visitor-badge/pv?namespace=example.com&key=index.html)
 
 
 ###
