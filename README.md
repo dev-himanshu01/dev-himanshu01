@@ -12,8 +12,6 @@
 
 ###
 
-https://api.visitor.plantree.me/visitor-badge/pv?namespace=example.com&key=index.html
-
 ###
 
 # <h1 align="center"> Hey there 👋</h1>
