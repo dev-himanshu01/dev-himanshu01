@@ -66,15 +66,12 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats : </h3>
-
 ###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anjalisoni19&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anjalisoni19&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisoni19&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats 🔥:
+![](https://github-readme-stats.vercel.app/api?username=dev-himanshu01&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-himanshu01&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-himanshu01&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ###
