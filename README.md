@@ -12,9 +12,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-himanshu01&"  />
-</div>
+![Static Badge](https://img.shields.io/badge/visitor-badge)
+
 
 ###
 
