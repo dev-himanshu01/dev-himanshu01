@@ -36,11 +36,7 @@
 
 - ⚡ Fun fact **Debugging the code of Life with a side of Hilarity**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/himanshusi32088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshusi32088" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu-singh-5430021b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-singh-5430021b7" height="30" width="40" /></a>
