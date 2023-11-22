@@ -45,7 +45,7 @@
 <a href="https://codepen.io/@odrqenfy-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@odrqenfy-the-flexboxer" height="30" width="40" /></a>
 <a href="https://twitter.com/himanshusi32088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshusi32088" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu-singh-5430021b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-singh-5430021b7" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/heyyyymanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/heyyyymanshu/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/heyyyymanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/heyyyymanshu/" height="30" width="40" /></a>
 <a href="https://medium.com/@himanshu.developer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himanshu.developer01" height="30" width="40" /></a>
 </p>
 
